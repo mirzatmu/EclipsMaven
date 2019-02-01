@@ -1,4 +1,4 @@
 package UploadingPackage;
-public class{
+public class  Mirzat {  
 
 }
